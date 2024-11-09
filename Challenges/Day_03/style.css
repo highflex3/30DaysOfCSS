@@ -36,19 +36,19 @@ ul li:hover span {
 }
 
 ul li:nth-child(1) span {
-  background: #4064AC;
+  background: red;
 }
 
 ul li:nth-child(2) span {
-background: #CC456C;
+background: yellow;
 }
 
 ul li:nth-child(3) span {
-  background: #61CD65;
+  background: purple;
 }
 
 ul li:nth-child(4) span {
-  background: #0270AD;
+  background: green;
 }
 
 ul li:nth-child(5) span {
